@@ -33,7 +33,7 @@ The goal of this project is to develop predictive models that assist in the earl
 - Predicts treatment response as a binary outcome and evaluates using appropriate classification metrics.
 
 ## Usage
-After installing the necessary dependencies, you can run the Colab notebooks located in the /notebooks folder. Each notebook contains detailed instructions for executing the code and obtaining results.
+After installing the necessary dependencies, you can run the Colab notebooks located in the main branch. Each notebook contains detailed instructions for executing the code and obtaining results.
 
 ### Lung Cancer Detection:
  Open the Lung_Nodule_detection.ipynb notebook to train and evaluate the detection model.
